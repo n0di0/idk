@@ -17,3 +17,8 @@ class Form1(Form1Template):
     for code in list_of_decodes:
       self.content_panel.add_component(Label(text=code, align="center"))
 
+  @handle("button_1", "click")
+  def button_1_click(self, **event_args):
+    """This method is called when the button is clicked"""
+    open_form('Form1.Form2')
+
