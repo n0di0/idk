@@ -1,0 +1,11 @@
+allow_embedding: false
+correct_dependency_ids: {}
+db_schema: []
+dependencies: []
+metadata: {}
+name: Clone of QR scanner
+package_name: QR_scanner
+renamed: true
+runtime_options: {client_version: '3', server_spec: null, server_version: python3-full, version: 2}
+services: []
+startup_form: Form1

@@ -1,0 +1,11 @@
+unique_ids:
+  assets:
+    standard-page.html: PYOH4VQFQLEWZAMMQJYZFAFHJBH527NO
+    theme.css: MORLPN5NPLCNIDJRZD5PWR4LIPBOORZN
+  forms:
+    Form1: EPUWB7YMLXKUZT4GRSHSS2SIZQO6CG5I
+    Form1.ItemTemplate1: AHH7R625F76GWDDJ2ON6556EYERI5RZK
+  modules: {}
+  scripts: {}
+  server_modules:
+    ServerModule1: B5BD45FRO6HTTAH745TRCF4IFNWJYL3A
